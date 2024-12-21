@@ -2,12 +2,12 @@
 
 // 7 type : string , boolearn , number , null , undefind , symbol , bigint, 
 
-const age = 100
-const agevalue = 100.3
+ const age = 100
+ const agevalue = 100.3
 
-const isLoggedIn =false
+ const isLoggedIn =false
 const outsideTemp = null
-let userEmail;
+ let userEmail;
 
 const id = symbol ('123')
 const anotherId = symbol ('123')
@@ -24,13 +24,13 @@ const bigNumber = 345689974357890865436578n
 
 const heros = ["shaktiman" , "naagraj" , "doga"]
 let myobj = {
-   name : "devesh",
-   age :22,
+    name : "devesh",
+    age :22,
 }
 
 const myFunction = function (){
-   console.log("hello devesh");
-   }
+    console.log("hello devesh");
+    }
 
-   console.log(typeof bigNumber  );
-   
+    console.log(typeof bigNumber  );
+    
